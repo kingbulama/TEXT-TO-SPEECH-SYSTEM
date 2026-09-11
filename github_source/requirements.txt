@@ -1,0 +1,14 @@
+datasets[audio]>=2.19.0
+numpy>=1.26.0
+transformers>=4.40.0
+torchaudio>=2.2.0
+jiwer>=3.0.3
+librosa>=0.10.2
+soundfile>=0.12.1
+accelerate>=0.28.0
+evaluate>=0.4.1
+peft>=0.10.0
+pytest>=8.0.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
